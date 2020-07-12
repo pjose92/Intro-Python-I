@@ -28,9 +28,9 @@ f.close()
 # sure that it contains what you expect it to contain
 
 # YOUR CODE HERE
-arbitrary_text = '''First line of arbitrary text.
-Second line of arbitrary text.
-Third line of arbitrary text.'''
+arbitrary_text = '''1st line of arbitrary text.
+2nd line of arbitrary text.
+3rd line of arbitrary text.'''
 
 bar_path = os.path.join(my_path, 'bar.txt')
 
